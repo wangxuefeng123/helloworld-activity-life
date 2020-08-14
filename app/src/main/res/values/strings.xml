@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="modify">修改</string>
+    <string name="big">放大</string>
+    <string name="haha">哈哈</string>
+    <string name="inputshow">请输入要显示的字符</string>
+    <string name="textinputshow">名字输入栏</string>
+    <string name="main">Main界面</string>
+    <string name="activity1">跳转到Activity1</string>
+    <string name="activity2">跳转到Activity2</string>
+    <string name="Text2">第二个界面</string>
+    <string name="ACT2">跳转到ACTIVITY1</string>
+</resources>
